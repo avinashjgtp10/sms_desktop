@@ -1,3 +1,15 @@
+ou have successfully created a new MySQL database. 
+ Your details can be found below.
+
+Username: gsFKjIYR5M 
+Database: gsFKjIYR5M 
+Password: s11gdYJuZj 
+Server: remotemysql.com 
+Port: 3306
+
+
+
+
 [![Angular Logo](https://www.vectorlogo.zone/logos/angular/angular-icon.svg)](https://angular.io/) [![Electron Logo](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg)](https://electronjs.org/)
 
 [![Travis Build Status][build-badge]][build]
